@@ -1,0 +1,63 @@
+[00:02:40] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:58212]: Connected via websocket
+[00:02:40] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:58212]: Origin header is https://eaglercraftx--ayunami2000.repl.co
+[00:02:40] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:58212]: Logged in as 'RIP_Bobby'
+[00:02:40] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:58212|RIP_Bobby] -> UpstreamBridge has connected
+[00:02:40] [Netty Worker IO Thread #0/INFO]: [RIP_Bobby|/172.31.128.1:58212] <-> ServerConnector [lobby] has connected
+[00:02:43] [Netty Worker IO Thread #0/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 65ms to process event PluginMessageEvent(super=TargetedEvent(sender=RIP_Bobby, receiver=net.md_5.bungee.ServerConnection@12027a83), cancelled=true, tag=EAG|Skins-1.8)!
+[00:03:20] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:35750|GoofyAzzBruh] -> UpstreamBridge has disconnected
+[00:03:20] [Netty Worker IO Thread #0/INFO]: [GoofyAzzBruh] disconnected with: Proxy lost connection to server.
+[00:03:20] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:35750|GoofyAzzBruh] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:06:58] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:57650|BlackmEnTwerking] -> UpstreamBridge has disconnected
+[00:06:58] [Netty Worker IO Thread #1/INFO]: [BlackmEnTwerking] disconnected with: Proxy lost connection to server.
+[00:06:58] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:57650|BlackmEnTwerking] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:09:59] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:46218]: Connected via websocket
+[00:09:59] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:46218]: Origin header is https://eaglercraftx--ayunami2000.repl.co
+[00:09:59] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:46218]: Logged in as 'Aiden_F'
+[00:09:59] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:46218|Aiden_F] -> UpstreamBridge has connected
+[00:09:59] [Netty Worker IO Thread #1/INFO]: [Aiden_F|/172.31.128.1:46218] <-> ServerConnector [lobby] has connected
+[00:10:48] [Netty Worker IO Thread #0/WARN]: [/172.31.128.1:58212|RIP_Bobby] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[00:10:48] [Netty Worker IO Thread #0/INFO]: [RIP_Bobby] disconnected with: NativeIoException : recvAddress(..) failed: Connection reset by peer
+[00:10:48] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:58212|RIP_Bobby] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:10:48] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:58212|RIP_Bobby] -> UpstreamBridge has disconnected
+[00:10:54] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:49840]: Connected via websocket
+[00:10:54] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:49840]: Origin header is https://eaglercraftx--ayunami2000.repl.co
+[00:10:54] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:49840]: Logged in as 'RIP_Bobby'
+[00:10:54] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:49840|RIP_Bobby] -> UpstreamBridge has connected
+[00:10:54] [Netty Worker IO Thread #0/INFO]: [RIP_Bobby|/172.31.128.1:49840] <-> ServerConnector [lobby] has connected
+[00:13:39] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:46218|Aiden_F] -> UpstreamBridge has disconnected
+[00:13:39] [Netty Worker IO Thread #1/INFO]: [Aiden_F] disconnected with: Proxy lost connection to server.
+[00:13:39] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:46218|Aiden_F] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:14:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:40534]: Connected via websocket
+[00:14:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:40534]: Origin header is https://eaglercraftx--ayunami2000.repl.co
+[00:14:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:40534]: Logged in as 'DeevYeeish752'
+[00:14:01] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:40534|DeevYeeish752] -> UpstreamBridge has connected
+[00:14:01] [Netty Worker IO Thread #0/INFO]: [DeevYeeish752|/172.31.128.1:40534] <-> ServerConnector [lobby] has connected
+[00:14:23] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:49698|lil_drummer_boi] -> UpstreamBridge has disconnected
+[00:14:23] [Netty Worker IO Thread #1/INFO]: [lil_drummer_boi] disconnected with: Proxy lost connection to server.
+[00:14:23] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:49698|lil_drummer_boi] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:14:26] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:42290]: Connected via websocket
+[00:14:26] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:42290]: Origin header is https://eaglercraftx.ayunami2000.repl.co
+[00:14:26] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:42290]: Logged in as 'lil_drummer_boi'
+[00:14:26] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:42290|lil_drummer_boi] -> UpstreamBridge has connected
+[00:14:26] [Netty Worker IO Thread #1/INFO]: [lil_drummer_boi|/172.31.128.1:42290] <-> ServerConnector [lobby] has connected
+[00:15:17] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:51158]: Connected via websocket
+[00:15:17] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:51158]: Origin header is https://eaglercraftx.ayunami2000.repl.co
+[00:15:17] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:51158]: Logged in as 'Joe_mama_obama'
+[00:15:17] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:51158|Joe_mama_obama] -> UpstreamBridge has connected
+[00:15:17] [Netty Worker IO Thread #1/INFO]: [Joe_mama_obama|/172.31.128.1:51158] <-> ServerConnector [lobby] has connected
+[00:18:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:46750]: Connected via websocket
+[00:18:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:46750]: Origin header is https://eaglercraftx--ayunami2000.repl.co
+[00:18:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:46750]: Logged in as 'wipey'
+[00:18:45] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:46750|wipey] -> UpstreamBridge has connected
+[00:18:45] [Netty Worker IO Thread #1/INFO]: [wipey|/172.31.128.1:46750] <-> ServerConnector [lobby] has connected
+[00:22:05] [Netty Worker IO Thread #1/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 50ms to process event PluginMessageEvent(super=TargetedEvent(sender=wipey, receiver=net.md_5.bungee.ServerConnection@44aa06fe), cancelled=true, tag=EAG|Skins-1.8)!
+[00:25:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:56146]: Connected via websocket
+[00:25:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:56146]: Origin header is https://eaglercraftx--ayunami2000.repl.co
+[00:25:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:56146]: Logged in as 'Aiden_F'
+[00:25:01] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:56146|Aiden_F] -> UpstreamBridge has connected
+[00:25:01] [Netty Worker IO Thread #0/INFO]: [Aiden_F|/172.31.128.1:56146] <-> ServerConnector [lobby] has connected
+[00:25:54] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:42664]: Connected via websocket
+[00:25:54] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:42664]: Origin header is https://1e60ae56-5fb0-4efd-aef5-3849c3123889.id.repl.co
+[00:25:54] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:42664]: Logged in as 'VoolYee891'
+[00:25:54] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:42664|VoolYee891] -> UpstreamBridge has connected
+[00:25:54] [Netty Worker IO Thread #1/INFO]: [VoolYee891|/172.31.128.1:42664] <-> ServerConnector [lobby] has connected
